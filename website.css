@@ -1,0 +1,34 @@
+h1{
+    color: aqua;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+#picture{
+
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+}
+#para1{
+    color: blueviolet;
+    font-style: italic;
+    font-family: fantasy;
+    background-color: aliceblue;
+}
+.para{
+    background-color:aquamarine;
+    text-shadow: 4pxs;
+}
+#para3{
+    font-style: italic;
+    font-family: sans-serif;
+}
+span{
+    color: red;
+    font-weight: lighter;
+    background-color: none;
+    font-family: 'Times New Roman', Times, serif;
+}
