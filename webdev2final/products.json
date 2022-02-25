@@ -1,0 +1,44 @@
+{
+  "items":[
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "yellow off shoulder",
+        "size": "M",
+        "features": "100% ankara cotton, long sleeved, knee length",
+        "price": 25000,
+        "image": { "fields": { "file": { "url": "./images/dress2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "sleeveless circle dress",
+        "size": "M/L",
+        "features":"100% ankara cotton, knee length, with pockets",
+        "price": 40000,
+        "image": { "fields": { "file": { "url": "./images/dress3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "short sleeved t-shirt dress",
+        "size": "M",
+        "features":"knee length, pockets",
+        "price": 35000,
+        "image": { "fields": { "file": { "url": "./images/dress4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "cinch waist free dress",
+        "size": "M",
+        "features":"100% cotton, short sleeved, knee length",
+        "price": 50000,
+        "image": { "fields": { "file": { "url": "./images/dress6.jpg" } } }
+      }
+    }
+  ]
+}
